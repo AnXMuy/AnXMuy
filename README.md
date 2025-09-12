@@ -17,10 +17,8 @@
 - 📫 Contact: **andrewjiang@stu.xjtu.edu.cn**
 
 ---
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,latex,git,github,linux,docker,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,latex,github&perline=5" />
 </p>
 
 ---
