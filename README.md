@@ -18,7 +18,7 @@
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,latex,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,latex,github,cpp&perline=6" />
 </p>
 
 ---
@@ -31,4 +31,4 @@
 
 ---
 
-⭐️ From [YourName](https://github.com/your-username)
+⭐️ From [YourName](https://github.com/AnXMuy)
