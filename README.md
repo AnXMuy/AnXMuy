@@ -5,7 +5,7 @@
 
 <!-- 个人照片 -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/me.jpg" alt="profile photo" width="150" style="border-radius:50%"/>
+  <img src="./assets/生活照片1.jpg" alt="photo" width="150" style="border-radius:50%"/>
 </p>
 
 ---
