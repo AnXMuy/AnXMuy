@@ -1,7 +1,7 @@
 <!-- 学术型 GitHub README 模板 -->
 
-<h1 align="center">Hi 👋, I'm Zixuan Jiang</h1>
-<h3 align="center">🎓 Researcher | Student | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Zixuan Jiang (Andrew)</h1>
+<h3 align="center">🎓 Try, Train, Transfer, Transcend</h3>
 
 <!-- 个人照片 -->
 <p align="center">
@@ -11,10 +11,10 @@
 ---
 
 ### 🔍 About Me
-- 🎓 Currently: **[B.S. College of AI, Xi'an Jiaotong University]**
-- 🧑‍💻 Research Interests: **[Computer Vision, Multimodal Learning, Remote Sensing Image Processing]**
+- 🎓 Currently: **[Undergraduate, College of AI, Xi'an Jiaotong University]**
+- 🧑‍💻 Research Interests: **[Multimodal LLM, Speech Interaction, Computer Vision]**
 - 🌐 Academic Homepage: [https://anxmuy.github.io/](https://anxmuy.github.io/)
-- 📫 Contact: **andrewjiang@stu.xjtu.edu.cn**
+- 📫 Contact: **andrewjiang@stu.xjtu.edu.cn, jiang2213212344@gmail.com**
 
 ---
 <p align="center">
