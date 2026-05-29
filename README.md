@@ -17,3 +17,5 @@
 - 📫 Contact: **andrewjiang@stu.xjtu.edu.cn, jiang2213212344@gmail.com**
 
 ⭐️ From [AnXMuy](https://github.com/AnXMuy)
+
+![GitHub Last Push](https://img.shields.io/github/last-commit/AnXMuy/AnXMuy?label=last%20push&style=flat-square)
