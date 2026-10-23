@@ -26,26 +26,53 @@
   <a href="https://github.com/AnXMuy?tab=followers"><img src="https://img.shields.io/github/followers/AnXMuy?label=Followers&amp;style=flat-square&amp;color=8AAFC1" alt="GitHub followers" /></a>
 </p>
 
-<table align="center">
+<br />
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>About Me</h3>
-      <p>Undergraduate student in Artificial Intelligence at <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>.</p>
-      <p>Incoming PhD student at <a href="https://www.sii.edu.cn/">Shanghai Innovation Institute</a> and <a href="https://cs.sjtu.edu.cn/">Shanghai Jiao Tong University</a> · September 2027.</p>
+    <td width="50%" valign="top" align="center">
+      <h3>🎓 About Me</h3>
+      <p align="center">
+        <sub>
+          Undergraduate student in Artificial Intelligence<br />
+          <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>
+        </sub>
+      </p>
+      <p align="center">
+        <sub>
+          Incoming PhD student · <em>September 2027</em><br />
+          <a href="https://www.sii.edu.cn/">Shanghai Innovation Institute</a> ·
+          <a href="https://cs.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
+        </sub>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Research</h3>
-      <p>Understanding the world with audio and video, then building systems that can interact and collaborate with people.</p>
-      <p><a href="https://anxmuy.github.io/#research">Explore research interests →</a></p>
+    <td width="50%" valign="top" align="center">
+      <h3>🔬 Research</h3>
+      <p align="center">
+        <sub>
+          Understanding the world with audio and video,<br />
+          then building systems that can interact<br />
+          and collaborate with people.
+        </sub>
+      </p>
+      <p align="center">
+        <a href="https://anxmuy.github.io/#research"><sub>Explore research interests →</sub></a>
+      </p>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Try · Train · Transfer · Transcend</sub></p>
+<br />
 
 <p align="center">
-  <a href="https://anxmuy.github.io/">Full homepage ↗</a> ·
-  <a href="https://scholar.google.com/citations?user=q38x_T8AAAAJ">Publications</a> ·
-  <a href="mailto:jiang2213212344@gmail.com">Personal email</a> ·
+  <sub>✦ &nbsp; Try · Train · Transfer · Transcend &nbsp; ✦</sub>
+</p>
+
+<hr />
+
+<p align="center">
+  <a href="https://anxmuy.github.io/">Full homepage ↗</a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=q38x_T8AAAAJ">Publications</a> &nbsp;·&nbsp;
+  <a href="mailto:zixuanjiang2006@gmail.com">Personal email</a> &nbsp;·&nbsp;
   <a href="https://github.com/AnXMuy">GitHub</a>
 </p>
