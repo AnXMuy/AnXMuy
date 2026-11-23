@@ -1,20 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
-  <title id="title">Andrew Jiang — Audio-Visual Intelligence</title>
-  <desc id="desc">A clean blue research banner with an audio waveform and video frame motif.</desc>
-  <rect width="1200" height="230" rx="10" fill="#f4f8fb"/>
-  <path d="M0 190H1200" stroke="#dce6ed"/>
-  <g fill="#17649b" font-family="Arial, sans-serif">
-    <text x="56" y="58" font-size="13" font-weight="700" letter-spacing="3">ANXMUY · RESEARCH PROFILE</text>
-    <text x="56" y="118" font-size="43" font-weight="700">Research with curiosity.</text>
-    <text x="58" y="155" font-size="18" fill="#566672">Audio-Visual Intelligence · Xi'an Jiaotong University</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Andrew Jiang — Audio-Visual Multimodal Intelligence</title>
+  <desc id="desc">A deep-blue research banner with white typography and a pink audio waveform.</desc>
+  <rect width="1200" height="280" rx="22" fill="#09318D"/>
+  <path d="M0 220C190 170 315 270 510 216S835 154 1024 208s210 8 270-6v78H0Z" fill="#FFFFFF" opacity=".035"/>
+  <path d="M0 235C180 187 331 277 520 230s324-56 482-9 207 22 258 5" fill="none" stroke="#FFFFFF" stroke-opacity=".11" stroke-width="1.5"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="70" fill="#FD91CC" font-size="15" font-weight="700" letter-spacing="2.5">RESEARCH · 音视频多模态智能</text>
+    <text x="62" y="139" fill="#FFFFFF" font-size="52" font-weight="700" letter-spacing="-1.5">Andrew Jiang</text>
+    <text x="65" y="178" fill="#E5EBFF" font-size="20">Audio-Visual Multimodal Intelligence</text>
+    <text x="65" y="218" fill="#CFD9F5" font-size="15">Understanding the world · Building systems that interact with people</text>
   </g>
-  <g transform="translate(950 55)" fill="none" stroke="#17649b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="5" y="3" width="146" height="105" rx="9" stroke="#c7d9e5" stroke-width="2"/>
-    <path d="M20 57h13l8-20 14 42 14-51 14 61 13-32 10 0"/>
-    <path d="M112 57h23" stroke="#7fa9c2"/>
-    <circle cx="132" cy="25" r="5" fill="#7fa9c2" stroke="none"/>
+  <g transform="translate(812 67)">
+    <rect x="0" y="0" width="322" height="134" rx="16" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".14"/>
+    <g stroke="#FD91CC" stroke-width="5" stroke-linecap="round">
+      <path d="M26 67h10M48 51v32M70 38v58M92 60v16M114 29v76M136 48v40M158 56v26M180 34v92M202 52v34M224 62v14"/>
+    </g>
+    <path d="M26 67h10m22 0h12m22 0h22m22 0h22m22 0h22m22 0h24" fill="none" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1.5"/>
+    <g fill="#FFFFFF" fill-opacity=".84">
+      <circle cx="267" cy="45" r="4"/><circle cx="285" cy="67" r="4" fill="#FD91CC"/><circle cx="267" cy="89" r="4"/>
+    </g>
+    <path d="M271 48l11 15m0 8-11 15" fill="none" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="1.5"/>
+    <text x="25" y="119" fill="#FFFFFF" fill-opacity=".72" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.2">AUDIO</text>
+    <text x="261" y="119" fill="#FFFFFF" fill-opacity=".72" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.2">VIDEO</text>
   </g>
-  <g fill="#17649b">
-    <circle cx="1080" cy="180" r="4" opacity=".8"/><circle cx="1104" cy="180" r="4" opacity=".55"/><circle cx="1128" cy="180" r="4" opacity=".3"/>
-  </g>
+  <circle cx="1143" cy="72" r="5" fill="#FD91CC"/>
 </svg>
